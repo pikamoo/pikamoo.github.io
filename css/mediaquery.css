@@ -1,0 +1,74 @@
+@media screen and (max-width:480px){
+	.about{
+		font-size:0.9em;
+	}
+#face{
+	height:12.5em;
+	width:12.5em;
+	margin-top:-10px;
+	}	
+#microsoft{
+	height:2.5em;;
+	width:4em;;	
+	padding-bottom:10px;}
+
+header h1{
+	font-size:3em;}
+
+header h4 {
+	font-size:1.5em;
+	}
+#microsoft{
+	display:none;
+}	
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+@media screen and (min-width:1000px){
+	.profile{
+		float:left;
+		margin-left:80px;
+	}
+.icons{
+	clear:both;
+	float:left;
+	margin-left:80px;
+}
+
+.about{
+	margin-left:420px;
+	margin-top:30px;
+	width:800px;
+	font-size:1.4em;
+}
+
+header{
+	text-align:left;
+}
+
+header h1{
+	margin-left:60px;
+	padding-bottom:15px;
+}
+
+header h4{
+	margin-left:80px;
+}
+
+footer{
+	clear:both;
+}
+
+#microsoft{
+	margin-top:-30px;
+	margin-bottom:10px;
+	height:2em;;
+	width:3.5em;;
+}
+}
