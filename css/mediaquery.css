@@ -18,9 +18,13 @@ header h1{
 header h4 {
 	font-size:1.5em;
 	}
-#microsoft{
+.cert {
 	display:none;
 }	
+    
+#video {
+ content: url(<iframe width="560" height="315" src="//www.youtube.com/embed/uUtaxYm3nsQ?rel=0" frameborder="0" allowfullscreen></iframe>)   
+}    
 	}
 	
 	
@@ -65,10 +69,14 @@ footer{
 	clear:both;
 }
 
-#microsoft{
+.cert {
 	margin-top:-30px;
 	margin-bottom:10px;
 	height:2em;;
 	width:3.5em;;
 }
+    #video {
+ content: url(<iframe width="1280" height="720" src="//www.youtube.com/embed/uUtaxYm3nsQ?rel=0" frameborder="0" allowfullscreen></iframe>)   
+}
+    
 }
