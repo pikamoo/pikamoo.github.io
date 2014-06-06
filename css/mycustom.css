@@ -57,10 +57,10 @@ header h4 {
 	text-shadow:1px 2px 3px black;
 }
 
-#microsoft{
-	height:3em;;
-	width:5em;;
-	border-radius:0;
+.cert {
+	height: 2em;;
+	width: 3em;;
+	border-radius:5%;
 	margin:0;
 }
 
@@ -71,7 +71,7 @@ footer{
 	padding:10px;
 }
 
-.about{
+.about {
 	padding:5%;
 	margin-top:0;
 	color:white;
@@ -100,4 +100,9 @@ footer{
 .icons img{
 	width:50px;
 	height:50px;
+}
+
+
+#video {
+    margin:auto;
 }
