@@ -64,6 +64,24 @@ header h4 {
 	margin:0;
 }
 
+
+.icons{
+	background:white;
+	width:18em;
+	margin:auto;
+	text-align:center;
+	padding:5px;
+	border:5px solid;
+	border-color:#015367;
+}
+
+.icons img{
+	width:50px;
+	height:50px;
+}
+
+
+
 footer{
 	color:lightgray;
 	font-size:0.75em;
@@ -87,22 +105,12 @@ footer{
 	padding-top:10px;
 }
 
-.icons{
-	background:white;
-	width:18em;
-	margin:auto;
-	text-align:center;
-	padding:5px;
-	border:5px solid;
-	border-color:#015367;
-}
-
-.icons img{
-	width:50px;
-	height:50px;
-}
 
 
-#video {
+iframe {
     background-position:center;
+    width="560" 
+ height="315" 
+    
+
 }
