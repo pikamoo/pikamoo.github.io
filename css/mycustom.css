@@ -68,11 +68,12 @@ header h4 {
 .icons{
 	background:white;
 	width:12em;
-	margin:auto;
+	margin:0;
 	text-align:center;
 	padding:5px;
 	border:5px solid;
 	border-color:#015367;
+	border-radius: 5%;
 }
 
 .icons img{
