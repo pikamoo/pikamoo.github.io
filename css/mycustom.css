@@ -11,7 +11,7 @@ header{
 	padding:1em;
 	text-align:center;
 	padding-top:0.2em;
-	margin:0;
+	margin:auto;
 }
 
 header h1{
@@ -38,7 +38,7 @@ header h4 {
 	padding-bottom:2px;
 	color:white;
 	text-align:center;
-	margin:auto;
+	
 	
 }
 
@@ -75,7 +75,7 @@ header h4 {
 	border:5px solid;
 	border-color:#015367;
 	border-radius: 5%;
-	
+	margin:auto;
 }
 
 .icons img{
