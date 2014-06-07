@@ -24,7 +24,7 @@ header h4 {
 	
 	
 @media screen and (min-width:1000px){
-	.profile{
+	.profile .icons{
 		float:left;
 		margin-left:80px;
 	}
