@@ -1,16 +1,10 @@
 @media screen and (max-width:480px){
-	.about{
-		font-size:0.9em;
-	}
+	
 #face{
 	height:12.5em;
 	width:12.5em;
 	margin-top:-10px;
 	}	
-#microsoft{
-	height:2.5em;;
-	width:4em;;	
-	padding-bottom:10px;}
 
 header h1{
 	font-size:3em;}
